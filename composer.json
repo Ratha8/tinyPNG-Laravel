@@ -1,0 +1,24 @@
+{
+  "name": "rotha/rt-tinipng-laravel",
+  "type": "library",
+  "description": "Tinify API support with laravel",
+  "keywords": ["tinify","tinypng", "laravel"],
+  "license": "RT",
+  "authors": [
+    {
+      "name": "rotha8",
+      "email": "voeun.rotha8@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "illuminate/support": "~5.2",
+    "tinypng/tinypng":"*"
+  },
+  "autoload": {
+    "psr-4": {
+      "rotha\\LaravelTinypng\\": "src"
+    }
+  },
+  "minimum-stability": "stable"
+}
