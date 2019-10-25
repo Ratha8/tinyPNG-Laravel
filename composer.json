@@ -3,7 +3,7 @@
   "type": "library",
   "description": "Tinify API support with laravel",
   "keywords": ["tinify","tinypng", "laravel"],
-  "license": "RT",
+  "license": "MIT",
   "authors": [
     {
       "name": "rotha8",
